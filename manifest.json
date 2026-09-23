@@ -1,6 +1,6 @@
 {
-    "surum":  "1.1.0",
-    "notlar":  "İlk otomatik güncelleme denemesi",
-    "sha256":  "ba138dac5034b2a374c9a5b0a18dc7bfb9701297e129174bb3ad57b8cc455e73",
+    "surum":  "1.2.0",
+    "notlar":  "Uygulama logosu eklendi",
+    "sha256":  "ca88b0b28fcdeadb54ce1bdced475d805b2b7167a0f6c56c921b94e7f4324582",
     "indirme_url":  "https://raw.githubusercontent.com/bycandev/SigortaTakip-releases/main/sigortatakip.exe"
 }
