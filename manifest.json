@@ -1,6 +1,6 @@
 {
-    "surum":  "1.2.0",
-    "notlar":  "Uygulama logosu eklendi",
-    "sha256":  "ca88b0b28fcdeadb54ce1bdced475d805b2b7167a0f6c56c921b94e7f4324582",
+    "surum":  "1.0.0",
+    "notlar":  "Ilk resmi surum",
+    "sha256":  "b816958dc576d25af11211031ea8cff452599860bf8373a2ab53f942d0c6c5e8",
     "indirme_url":  "https://raw.githubusercontent.com/bycandev/SigortaTakip-releases/main/sigortatakip.exe"
 }
